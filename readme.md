@@ -9,9 +9,9 @@
 
 [Comment règler un dérailleur arrière ?](support/FICHE_4-Regler-un-derailleur-arriere.pdf)
 
-[comment dévoiler une roue ?](support/FICHE 5-Devoiler-une-roue.pdf)
+[comment dévoiler une roue ?](support/FICHE_5-Devoiler-une-roue.pdf)
 
-[Comment purger les freins à hydrolique](support/FICHE 6-Purge de frein.pdf)
+[Comment purger les freins à hydrolique](support/FICHE_6-Purge_de_frein.pdf)
 
 [Quels éléméent de sécurite sont à vérifier ?](support/FICHE_1-Securite.pdf)
 
