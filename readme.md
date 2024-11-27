@@ -20,3 +20,7 @@
 ### Adhérer à l'association Droit au vélo NC
 
 [Rendez-vous sur HelloAsso](https://www.helloasso.com/associations/droit-au-velo-davnc/adhesions/bulletin-d-adhesion-droit-au-velo-nc)
+
+## Nous suivre sur facebook
+
+[Droit au vélo nc sur Facebook](https://www.facebook.com/droitauvelonc)
