@@ -1,5 +1,5 @@
 
-![Droit au vélo nc logo]([./medias/markdown.logo.jpg](https://droitauvelo-nc.github.io/fait-son-cinema/assets/partenaires/partenaire_droitauvelo.jpg))
+![Droit au vélo nc logo](https://droitauvelo-nc.github.io/fait-son-cinema/assets/partenaires/partenaire_droitauvelo.jpg)
 
 ## Support de formation : les bases de la mécanique vélo
 
