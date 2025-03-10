@@ -1,5 +1,4 @@
-
-![Droit au vélo nc logo](https://scontent.fnou1-1.fna.fbcdn.net/v/t39.30808-6/347809168_182878784339572_4138199420995366295_n.png?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sOOpkK1gdt4Q7kNvgEJ6rEb&_nc_oc=AdjVb7M2iwxdpm7c0oOCtN--OQEWaH6Uxrfy2f9sIezwWekjaA_rM3iyRIli1IKHEXI&_nc_zt=23&_nc_ht=scontent.fnou1-1.fna&_nc_gid=AU2pUFO0sBizIzNjZpA5gUl&oh=00_AYGDQC4c7Fg37ZUPyRPozAPnVlZuHMqsdT9TZz-_qBC0Vg&oe=67D41414)
+<img src="https://scontent.fnou1-1.fna.fbcdn.net/v/t39.30808-6/347809168_182878784339572_4138199420995366295_n.png?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sOOpkK1gdt4Q7kNvgEJ6rEb&_nc_oc=AdjVb7M2iwxdpm7c0oOCtN--OQEWaH6Uxrfy2f9sIezwWekjaA_rM3iyRIli1IKHEXI&_nc_zt=23&_nc_ht=scontent.fnou1-1.fna&_nc_gid=AU2pUFO0sBizIzNjZpA5gUl&oh=00_AYGDQC4c7Fg37ZUPyRPozAPnVlZuHMqsdT9TZz-_qBC0Vg&oe=67D41414" width="500">
 
 # Bienvenue et si vous êtes arrivés là c'est que le vélo nous réunit
 
